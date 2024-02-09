@@ -13,12 +13,12 @@ Welcome to Pokeguesser - your one stop quiz about Pokemons! Our site is designed
 
 - [Jean]
 
-  ## Technologies used
+## Technologies used
 
-  - Github
-  - Gitpod
-  - Visual Studio Code
-  - Chat GPT - Chat GPT: https://chat.openai.com
+- Github
+- Gitpod
+- Visual Studio Code
+- Chat GPT - Chat GPT: https://chat.openai.com
 
 ## Website Structure
 ### Pages
