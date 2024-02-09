@@ -17,7 +17,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin: 40px 0 0 25px;
+    margin: 0 0 25px;
     padding: 5px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
     box-sizing: border-box;
@@ -72,7 +72,7 @@
 /* makes the gradient work */
 
 .gradient-text {
-    background: -webkit-linear-gradient(right, #fff, #388adc, #388adc, #fff);
+    background: -webkit-linear-gradient(right, #00aaff, #00aaff);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-family: 'pokemon_solidnormal', Arial, Helvetica, sans-serif;
@@ -85,10 +85,10 @@
 
 .descriptions div {
     display: block;
-    font-family: 'pokemon_solidnormal', Arial, Helvetica, sans-serif;
-    font-weight: normal;
+    font-family: Helvetica, sans-serif;
+    font-weight: 500;
     font-style: normal;
-    font-size: 19px;
+    font-size: 24px;
     animation: slide-in 0.3s ease forwards;
 }
 
@@ -221,7 +221,7 @@ footer {
     .pokemon-type-card {
         width: calc(100% - 20px);
         .descriptions div {
-            font-size: 16px;
+            font-size: 17px;
         }
     }
 }
