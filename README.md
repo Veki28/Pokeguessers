@@ -3,7 +3,7 @@
 # Project: Pokeguesser App
 
 ## Description
-Welcome to Pokeguesser - your one stop quiz about Pokemons
+Welcome to Pokeguesser - your one stop quiz about Pokemons! Our site is designed to teach new people to pokemon and already familiar users can check their knowledge from 151 pokemon. Take a quiz if you are brave or you just want to see how it works, or get to know each type of the pokemon ahead of taking a quiz. Whether you are a complete newbie or a series veteran, our site is ready to test your knowledge about pokemons no matter what. Start the quiz today, and find out how much you really know!
 
 ## Team members
 
@@ -25,13 +25,14 @@ Welcome to Pokeguesser - your one stop quiz about Pokemons
 
 - Index
 - Pokemon Types Quiz
-- Pokemon Guess Quiz
 - Pokemon Types
 - Pokedex
 
 ### Architecture
 
 - Landing page includes hero image and links to other destinations
+- consitent and clean navbar and footer and sidebar (navbar but in hamburger menu for smaller devices)
+- Out of 4 pages total, 3 have detailed descriptions about item contents on the page, all have small images or logos of the items from/related to the pages 
 
 ## Ideation
 
@@ -65,12 +66,12 @@ https://drive.google.com/drive/folders/13JOSnCfXt0f5JJC7kh8--VlJ4cqFHQ7d?usp=sha
 
 ### Homepage Taglines
 
-
-
+- "Ready to check your pokemon knowledge with our quiz?"
+- "Think you know every pokemon from generation 1? Think again! (you probably don't)
 
 ### Future Improvments
 
-
+- 
 
 
 
@@ -81,13 +82,9 @@ https://drive.google.com/drive/folders/13JOSnCfXt0f5JJC7kh8--VlJ4cqFHQ7d?usp=sha
 
 
 ## Acknowledgments
-
-
-
-
 ### Refrences
 
-
+The loadout: https://www.theloadout.com/pokemon-type-chart
 
 ### Shoutouts
 
