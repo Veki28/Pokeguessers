@@ -56,6 +56,13 @@ https://drive.google.com/drive/folders/13JOSnCfXt0f5JJC7kh8--VlJ4cqFHQ7d?usp=sha
  - Review the questions I answered incorrectly after completing the quiz
  - Share my quiz results on social media
 
+### Bugs / issues
+
+- Repeating merge conflicts between Vedran and main repo (solved eventually thanks to Martin)
+- To avoid further issues we've decided to separate css and js files for each of the pages to keep it more simple per page. This enabled us to catch things getting out of hand faster and not messing up other parts of pages
+- An issue where at 968px width cards would show up as one per row and then at 768px would go back to 2 per row
+- Fixed touch not working on mobile devices by commenting out one of media query's 
+
 ### Homepage Taglines
 
 
